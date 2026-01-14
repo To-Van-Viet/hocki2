@@ -1,0 +1,22 @@
+https://github.com/To-Van-Viet/hocki2.git
+=========================================
+echo "# hocki2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/To-Van-Viet/hocki2.git
+git push -u origin main
+=========================================
+git remote add origin https://github.com/To-Van-Viet/hocki2.git
+git branch -M main
+git push -u origin main
+========================================
+up file 
+1 git init
+2 git add .
+3 git commit -m "initial commit"
+4 git remote add origin https://github.com/To-Van-Viet/hocki2.git
+git branch -M main
+git push -u origin main
